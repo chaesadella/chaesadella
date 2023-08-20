@@ -8,7 +8,7 @@ Saat ini saya sedang menjalani program Studi Independen dari Kampus Merdeka yang
 
 <p align="left">
 <a href="https://github.com/chaesadella">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chaesadella&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chaesadella&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="154em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chaesadella&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="154em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chaesadella&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
